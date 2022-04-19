@@ -24,7 +24,7 @@ First you need to go to your games folder. I will be using Gorilla Tag as my gam
 
 Now you will need to follow the path Gorilla Tag_Data\Managed and you can now get all the dependencies you need. Copy them to a place you can find again.
 
-![images](Images/filesAS)
+![images](Images/filesAS.png)
 
 Files such as 0Harmony.dll, BepInEx.dll, Bepinject.dll, Utilla.dll, Zenject.dll, and Zenject-usage.dll will not be in this folder and some is made for other mods.
 
