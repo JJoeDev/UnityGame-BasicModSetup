@@ -1,15 +1,23 @@
 # A basic guide for unity game mods (BepInEx setup not included)
 
 The first thing you will need to do is get [Visual Studio](https://visualstudio.microsoft.com) installed. Download the comunity edition as its free.
+
 ![images](Images/guide1.png)
+
 Once you have Visual studio (VS) Installed and launched you will have to add some packages. You need .NET desktop development.
+
 ![images](Images/guide2.png)
+
 After the selected packages have been installed you will have to make a project for your mod. Click "Create a new project".
+
 ![images](Images/guide3.png)
+
 Now you will have to find the C# Class Library template, the description should be "A project for creating a class library that targets .NET or .NET Standard"
 If you are unable to find that spicific template the "Class Library (.NET Framework)" will also work fine.
+
 ![images](Images/guide4A.png)
 ![images](Images/guide4B.png)
+
 ## Before we set up the class we need to get the dependencies
 
 First you need to go to your games folder. I will be using Gorilla Tag as my game.
