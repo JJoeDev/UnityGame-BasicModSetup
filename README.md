@@ -18,15 +18,15 @@ If you are unable to find that spicific template the "Class Library (.NET Framew
 ![images](Images/guide4A.png)
 ![images](Images/guide4B.png)
 
-## Before we set up the class we need to get the dependencies
+## Before you set up the class you need to get the dependencies
 
 First you need to go to your games folder. I will be using Gorilla Tag as my game.
 
-Now you will need to follow the path Gorilla Tag_Data\Managed and we can now get all the dependencies we need. Copy them to a blace you can find again.
+Now you will need to follow the path Gorilla Tag_Data\Managed and you can now get all the dependencies you need. Copy them to a place you can find again.
 
 Files such as 0Harmony.dll, BepInEx.dll, Bepinject.dll, Utilla.dll, Zenject.dll, and Zenject-usage.dll will not be in this folder and some is made for other mods.
 
-After this we need to go to Gorilla Tag\BepInEx\core and get the following files. 0Harmony.dll and BepInEx.dll and copy them to a place you can find again.
+After this you need to go to Gorilla Tag\BepInEx\core and get the following files. 0Harmony.dll and BepInEx.dll and copy them to a place you can find again.
 
 # Class Library Setup
 
@@ -51,7 +51,7 @@ Click "Browse" and find your folder with the dependencies you just copied. Click
 
 Now VS may take some time to add them, VS may even stop responding, but just keep waiting.
 
-Now that we can see all the dll files added we can start making the mod.
+Now that you can see all the dll files added you can start making the mod.
 
 ![images](Images/guide10A.png)
 
@@ -75,7 +75,7 @@ Click "Browse" and find your folder with the dependencies you just copied. Click
 
 Now VS may take some time to add them, VS may even stop responding, but just keep waiting.
 
-Now that we can see all the dll files added we can start making the mod.
+Now that you can see all the dll files added you can start making the mod.
 
 ![images](Images/guide10A.png)
 
