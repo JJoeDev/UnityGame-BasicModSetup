@@ -32,16 +32,28 @@ After this we need to go to Gorilla Tag\BepInEx\core and get the following files
 
 Once you have selected this template and clicked next you can give it a name and a save location you can find.
 
+![images](Images/guide5A.png)
+
 After that you will need to select ".NET Standard 2.0"
+
+![images](Images/guide6A.png)
 
 After creating the project you can add the dependencies you just copied from the game.
 Right-click "Dependencies" and click "Add Project Reference".
 
+![images](Images/guide7A.png)
+
 Click "Browse" and find your folder with the dependencies you just copied. Click Ctrl + A to select everything and click Add and click OK.
+
+![images](Images/guide8A.png)
+
+![images](Images/guide9A.png)
 
 Now VS may take some time to add them, VS may even stop responding, but just keep waiting.
 
 Now that we can see all the dll files added we can start making the mod.
+
+![images](Images/guide10A.png)
 
 To see how a mod could look I have a [link](https://github.com/jona939s/Trail-monkey/blob/main/Class1.cs) to one of my old mods. Pay attention to harmony and bepinex.
 
@@ -49,12 +61,22 @@ To see how a mod could look I have a [link](https://github.com/jona939s/Trail-mo
 
 Oncy you have selected the template and clicked next you can give it a name and a save path you can find. You should also choose the lates framework version
 
+![images](Images/guide5B.png)
+
 Now you will have to right-click "References" and click "Add Reference".
 
+![images](Images/guide6B.png)
+
 Click "Browse" and find your folder with the dependencies you just copied. Click Ctrl + A to select everything and click Add and click OK.
+
+![images](Images/guide8A.png)
+
+![images](Images/guide9A.png)
 
 Now VS may take some time to add them, VS may even stop responding, but just keep waiting.
 
 Now that we can see all the dll files added we can start making the mod.
+
+![images](Images/guide10A.png)
 
 To see how a mod could look I have a [link](https://github.com/jona939s/Trail-monkey/blob/main/Class1.cs) to one of my old mods. Pay attention to harmony and bepinex.
