@@ -1,7 +1,7 @@
 # A basic guide for unity game mods (BepInEx setup not included)
 
 The first thing you will need to do is get [Visual Studio](https://visualstudio.microsoft.com) installed. Download the comunity edition as its free.
-
+![images](Images/guide1)
 Once you have Visual studio (VS) Installed and launched you will have to add some packages. You need .NET desktop development.
 
 After the selected packages have been installed you will have to make a project for your mod. Click "Create a new project".
