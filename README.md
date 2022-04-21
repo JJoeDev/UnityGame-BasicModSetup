@@ -1,5 +1,7 @@
 # A basic guide for unity game mods (BepInEx setup not included)
 
+([Video tutorial](https://youtu.be/QrtVIg4NkDA))
+
 The first thing you will need to do is get [Visual Studio](https://visualstudio.microsoft.com) installed. Download the comunity edition as its free.
 
 ![images](Images/guide1.png)
